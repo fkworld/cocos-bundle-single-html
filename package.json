@@ -1,0 +1,24 @@
+{
+  "name": "cocos-bundle-single-html",
+  "version": "1.0.0",
+  "description": "将 cocos creator 打包出来的web项目，进一步打包为单个 html 文件。",
+  "main": "./src/test/index",
+  "dependencies": {
+    "rollup": "^2.33.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fkworld/cocos-bundle-single-html.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fkworld/cocos-bundle-single-html/issues"
+  },
+  "homepage": "https://github.com/fkworld/cocos-bundle-single-html#readme"
+}
